@@ -4,4 +4,6 @@
 
 The program is intended for specialists developing application software in Python and developers of decision support systems. The program is a plug-in library for the Python language. The library includes functions for defasification and comparison of fuzzy numbers with a triangular membership function and is used to calculate clear values that are mapped to fuzzy numbers with a triangular membership function and calculate order relations (greater than or equal to, less than or equal to, equal to) between pairs of fuzzy numbers with a triangular membership function.  The initial data when calling the defasification functions is a triple of real numbers specifying a fuzzy number with a triangular membership function. The initial data when calling the comparison functions is a pair of triples of real numbers that define a pair of fuzzy numbers being compared with a triangular membership function.
 
+Certificate of registration of a computer program
+
 ![Свидетельство - Библиотека функций дефазификации и сравнение нечетких чисел с треугольной функцией принадлежности_pages-to-jpg-0001](https://user-images.githubusercontent.com/72341725/155675422-b3fc5dfc-762f-47e6-afcf-60b5c97b1c3a.jpg)
